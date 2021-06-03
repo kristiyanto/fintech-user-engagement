@@ -15,7 +15,7 @@ __Part II__:
 6. Evaluating and interpreting the results
 
 
-Article published at: [https://towardsdatascience.com/defining-predicting-and-preventing-disengaged-users-in-fintech-30dcb3bc0460](https://towardsdatascience.com/defining-predicting-and-preventing-disengaged-users-in-fintech-30dcb3bc0460)
+Article published in: [https://towardsdatascience.com/defining-predicting-and-preventing-disengaged-users-in-fintech-30dcb3bc0460](https://towardsdatascience.com/defining-predicting-and-preventing-disengaged-users-in-fintech-30dcb3bc0460)
 
 
 
